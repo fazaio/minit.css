@@ -240,6 +240,10 @@ nav ul a:hover {
   .rsv{
     display: block !important;
   }
+
+  .hide{
+    display: none !important;
+  }
 }
 @media (min-width: 320px) and (max-width: 480px) {
   .container {
@@ -276,6 +280,10 @@ nav ul a:hover {
 
   .rsv{
     display: block !important;
+  }
+
+  .hide{
+    display: none !important;
   }
 }
 .tgreen {
